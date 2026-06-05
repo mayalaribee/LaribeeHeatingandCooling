@@ -1,6 +1,6 @@
 import "./styles.css";
-import mayaPhoto from "src/assests/maya.jpeg";
-import merricPhoto from "src/assests/merric.jpeg";
+import mayaPhoto from "./assets/maya.jpeg";
+import merricPhoto from "./assests/merric.jpeg";
 export default function App() {
   return (
     <div className="site">

@@ -1,5 +1,5 @@
 import "./styles.css";
-import mayaPhoto from "./assets/maya.jpeg";
+import mayaPhoto from "./assets/IMG_8202.jpeg";
 import merricPhoto from "./assets/merric.jpeg";
 export default function App() {
   return (
